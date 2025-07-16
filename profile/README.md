@@ -14,58 +14,61 @@
 
 ## 🚩 Accolades & Recognition
 
-- 🏆 Awarded **Bihar Gaurav Samman 2024** for excellence in software & digital transformation :contentReference[oaicite:12]{index=12}  
-- Proud **Zoho Authorized Partner** :contentReference[oaicite:13]{index=13}
+- 🏆 Awarded **Bihar Gaurav Samman 2024** for excellence in software & digital transformation  
+- ✅ Proud **Zoho Authorized Partner**
 
 ---
 
 ## 🛠️ What We Do
 
 - 🔧 **Custom Software Development**
-- 🌐 **Web Applications (SaaS, CRM, ERP, eCommerce & CMS Platforms)**
+- 🌐 **Web Applications** (SaaS, CRM, ERP, eCommerce & CMS Platforms)
 - 📱 **Mobile App Development**
 - 🛒 **Marketplace & API Integrations**
-- 🧠 **AI-Powered Tools (Coming Soon)**
+- 🧠 **AI-Powered Tools** (Coming Soon)
 
 ---
+
 ## 💼 Our Core Services & Products
 
-| Category                  | Description |
-|--------------------------|-------------|
-| **Software Development** | Custom apps, ERP systems, mobile/web solutions (Shop, School, Hospital, Pharmacy, Lab, Portal, Learning Mgmt) :contentReference[oaicite:3]{index=3} |
-| **CRM (Nek CRM)**        | A full business suite for core operations and decision support :contentReference[oaicite:4]{index=4} |
-| **LMS (Nek LMS)**        | A platform for delivering educational courses and training :contentReference[oaicite:5]{index=5} |
-| **Shop ERP (NekMaart)**  | Smart POS and inventory system for retail and hospitality :contentReference[oaicite:6]{index=6} |
-| **School ERP (Classmentor)** | Full school/college management: admissions, fees, attendance, reports :contentReference[oaicite:7]{index=7} |
-| **Healthcare ERP**       | Hospital, pharmacy, and lab management solutions :contentReference[oaicite:8]{index=8} |
-| **Web & Digital Marketing** | SEO, PPC, social media, branding, and website development :contentReference[oaicite:9]{index=9} |
-| **Zoho Integrations**    | Authorized Zoho partner offering business productivity tools :contentReference[oaicite:10]{index=10} |
-| **Recruitment & Training** | HR staffing, internship programs, and soft‑skill training :contentReference[oaicite:11]{index=11} |
+| Category                     | Description                                                                 |
+|-----------------------------|-----------------------------------------------------------------------------|
+| **Software Development**     | Custom apps, ERP systems, mobile/web solutions (Shop, School, Hospital, Pharmacy, Lab, Portal, Learning Mgmt) |
+| **CRM (NekCRM)**             | A full business suite for core operations and decision support              |
+| **LMS (NekLMS)**             | A platform for delivering educational courses and training                  |
+| **Shop ERP (NekMaart)**      | Smart POS and inventory system for retail and hospitality                   |
+| **School ERP (ClassMentor)** | Full school/college management: admissions, fees, attendance, reports       |
+| **Healthcare ERP**           | Hospital, pharmacy, and lab management solutions                            |
+| **Web & Digital Marketing**  | SEO, PPC, social media, branding, and website development                   |
+| **Zoho Integrations**        | Authorized Zoho partner offering business productivity tools                |
+| **Recruitment & Training**   | HR staffing, internship programs, and soft-skill training                   |
+
+---
 
 ## 📦 Our Featured Projects
 
-- [`NekCRM`](https://github.com/Neksoft-Consultancy-Services/nekcrm) – In-house CRM Solution
-- [`NekMaart`](https://github.com/Neksoft-Consultancy-Services/nekmaart) – Shop Management Solution
-- [`ClassMentor`](https://github.com/Neksoft-Consultancy-Services/classmentor) – School Management System
-- [`NekMed`](https://github.com/Neksoft-Consultancy-Services/nekmed) – Hospital Management System
-- [`Zoho Marketplace Integration`](https://github.com/Neksoft-Consultancy-Services/zoho-marketplace-integration) – Integration tools for extending Zoho Marketplace functionality.
+- [`NekCRM`](https://github.com/Neksoft-Consultancy-Services/nekcrm) – In-house CRM solution  
+- [`NekMaart`](https://github.com/Neksoft-Consultancy-Services/nekmaart) – Shop management system  
+- [`ClassMentor`](https://github.com/Neksoft-Consultancy-Services/classmentor) – School management system  
+- [`NekMed`](https://github.com/Neksoft-Consultancy-Services/nekmed) – Hospital management system  
+- [`Zoho Marketplace Integration`](https://github.com/Neksoft-Consultancy-Services/zoho-marketplace-integration) – Extend Zoho Marketplace functionality  
+
 ---
 
-
-> 🚀 We're hiring! Join us to build the next generation of digital tools.
+> 🚀 **We're hiring!** Join us to build the next generation of digital tools.
 
 ---
 
 ## 📞 Contact Us
 
-**India** – Sitamarhi, Bihar & Noida, UP  
+**India** – Sitamarhi, Bihar & Noida, Uttar Pradesh  
 **Netherlands** – Almere  
 **Germany** – Oberschleißheim, Munich  
-**USA** – Corcoran, Minnesota :contentReference[oaicite:17]{index=17}
+**USA** – Corcoran, Minnesota  
 
-📧 info@neksoftconsultancy.com  
-📞 +91 96080 79939 | +31 644738246 | +49 089 20928505 :contentReference[oaicite:18]{index=18}
+📧 **Email:** info@neksoftconsultancy.com  
+📞 **Phone:** +91 96080 79939 | +31 644738246 | +49 089 20928505
 
 ---
 
-_This is the official GitHub organization profile for Neksoft Consultancy Services LLP._
+_This is the official GitHub organization profile for **Neksoft Consultancy Services LLP**._
