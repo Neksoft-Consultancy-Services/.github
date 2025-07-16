@@ -1,8 +1,8 @@
 # 👋 Welcome to Neksoft Consultancy Services LLP
 
-**🌐 Website:** [https://www.neksoftconsultancy.com](https://www.neksoftconsultancy.com)  
-**🏢 Founded:** 2022  
-**📍 Location:** India 🇮🇳, Netherlands 🇳🇱, Germany 🇩🇪, USA 🇺🇸
+[![Website](https://img.shields.io/badge/Website-Live-brightgreen?style=for-the-badge&logo=googlechrome)](https://www.neksoftconsultancy.com)
+[![Founded](https://img.shields.io/badge/Founded-2022-blue?style=for-the-badge)](https://www.neksoftconsultancy.com)
+[![Zoho Partner](https://img.shields.io/badge/Zoho-Authorized%20Partner-orange?style=for-the-badge&logo=zoho)](https://www.neksoftconsultancy.com/neksoft-partners-with-zoho-transforming-businesses-with-trusted-scalable-solutions/)
 
 ---
 
@@ -12,10 +12,10 @@
 
 ---
 
-## 🚩 Accolades & Recognition
+## 🏆 Accolades & Recognition
 
-- 🏆 Awarded **Bihar Gaurav Samman 2024** for excellence in software & digital transformation  
-- ✅ Proud **Zoho Authorized Partner**
+- 🏅 Awarded **Bihar Gaurav Samman 2024** for excellence in software & digital transformation  
+- 🤝 Proud **Zoho Authorized Partner**
 
 ---
 
@@ -45,30 +45,51 @@
 
 ---
 
-## 📦 Our Featured Projects
+## 📦 Featured Repositories
 
-- [`NekCRM`](https://github.com/Neksoft-Consultancy-Services/nekcrm) – In-house CRM solution  
-- [`NekMaart`](https://github.com/Neksoft-Consultancy-Services/nekmaart) – Shop management system  
-- [`ClassMentor`](https://github.com/Neksoft-Consultancy-Services/classmentor) – School management system  
-- [`NekMed`](https://github.com/Neksoft-Consultancy-Services/nekmed) – Hospital management system  
-- [`Zoho Marketplace Integration`](https://github.com/Neksoft-Consultancy-Services/zoho-marketplace-integration) – Extend Zoho Marketplace functionality  
+| Repository | Description |
+|------------|-------------|
+| [`NekCRM`](https://github.com/Neksoft-Consultancy-Services/nekcrm) | In-house CRM solution |
+| [`NekMaart`](https://github.com/Neksoft-Consultancy-Services/nekmaart) | Shop management system |
+| [`ClassMentor`](https://github.com/Neksoft-Consultancy-Services/classmentor) | School management system |
+| [`NekMed`](https://github.com/Neksoft-Consultancy-Services/nekmed) | Hospital management system |
+| [`Zoho Marketplace Integration`](https://github.com/Neksoft-Consultancy-Services/zoho-marketplace-integration) | Zoho integration tools |
 
 ---
 
-> 🚀 **We're hiring!** Join us to build the next generation of digital tools.
+## 🌍 Our Global Presence
+
+- 🇮🇳 **India** – Sitamarhi, Bihar & Noida, Uttar Pradesh  
+- 🇳🇱 **Netherlands** – Almere  
+- 🇩🇪 **Germany** – Oberschleißheim, Munich  
+- 🇺🇸 **USA** – Corcoran, Minnesota
 
 ---
 
 ## 📞 Contact Us
 
-**India** – Sitamarhi, Bihar & Noida, Uttar Pradesh  
-**Netherlands** – Almere  
-**Germany** – Oberschleißheim, Munich  
-**USA** – Corcoran, Minnesota  
+📧 **Email:** [info@neksoftconsultancy.com](mailto:info@neksoftconsultancy.com)
 
-📧 **Email:** info@neksoftconsultancy.com  
-📞 **Phone:** +91 96080 79939 | +31 644738246 | +49 089 20928505
+📱 **Phone:**
+
+- 🇮🇳 [📞 +91 96080 79939](tel:+919608079939)  
+- 🇳🇱 [📞 +31 644738246](tel:+31644738246)  
+- 🇩🇪 [📞 +49 089 20928505](tel:+498920928505)
+
+---
+
+> 🚀 _We’re hiring! Join us to build the next generation of digital tools._
 
 ---
 
 _This is the official GitHub organization profile for **Neksoft Consultancy Services LLP**._
+
+---
+
+## 📊 GitHub Stats
+
+[![Neksoft GitHub Stats](https://github-readme-stats.vercel.app/api?username=Neksoft-Consultancy-Services&show_icons=true&theme=default&hide_title=true)](https://github.com/Neksoft-Consultancy-Services)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Neksoft-Consultancy-Services&layout=compact&theme=default)](https://github.com/Neksoft-Consultancy-Services)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Neksoft-Consultancy-Services&theme=default)](https://github.com/Neksoft-Consultancy-Services)
