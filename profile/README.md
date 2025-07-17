@@ -83,13 +83,3 @@
 ---
 
 _This is the official GitHub organization profile for **Neksoft Consultancy Services LLP**._
-
----
-
-## 📊 GitHub Stats
-
-[![Neksoft GitHub Stats](https://github-readme-stats.vercel.app/api?username=Neksoft-Consultancy-Services&show_icons=true&theme=default&hide_title=true)](https://github.com/Neksoft-Consultancy-Services)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Neksoft-Consultancy-Services&layout=compact&theme=default)](https://github.com/Neksoft-Consultancy-Services)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Neksoft-Consultancy-Services&theme=default)](https://github.com/Neksoft-Consultancy-Services)
