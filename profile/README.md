@@ -32,8 +32,8 @@
 ## 💼 Our Core Services & Products
 
 | Category                     | Description                                                                 |
-|-----------------------------|-----------------------------------------------------------------------------|
-| **Software Development**     | Custom apps, ERP systems, mobile/web solutions (Shop, School, Hospital, Pharmacy, Lab, Portal, Learning Mgmt) |
+|------------------------------|-----------------------------------------------------------------------------|
+| **Software Development**     | Custom apps, ERP systems, mobile/web solutions (Shop, School, Hospital, Pharmacy, Lab, Portal, Learning Management) |
 | **CRM (NekCRM)**             | A full business suite for core operations and decision support              |
 | **LMS (NekLMS)**             | A platform for delivering educational courses and training                  |
 | **Shop ERP (NekMaart)**      | Smart POS and inventory system for retail and hospitality                   |
