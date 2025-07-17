@@ -1,8 +1,9 @@
 # 👋 Welcome to Neksoft Consultancy Services LLP
 
-[![Website](https://img.shields.io/badge/Website-Live-brightgreen?style=for-the-badge&logo=googlechrome)](https://www.neksoftconsultancy.com)
+[![Website](https://img.shields.io/badge/Website-Live-brightgreen?style=for-the-badge&logo=globe)](https://www.neksoftconsultancy.com)
 [![Founded](https://img.shields.io/badge/Founded-2022-blue?style=for-the-badge)](https://www.neksoftconsultancy.com)
-[![Zoho Partner](https://img.shields.io/badge/Zoho-Authorized%20Partner-orange?style=for-the-badge&logo=zoho)](https://www.neksoftconsultancy.com/neksoft-partners-with-zoho-transforming-businesses-with-trusted-scalable-solutions/)
+<img src="https://www.zohowebstatic.com/sites/zweb/images/commonroot/zoho-logo-web.svg" width="60"/>
+[![Authorized Partner](https://img.shields.io/badge/Authorized-Partner-blue?style=for-the-badge)](https://www.neksoftconsultancy.com/neksoft-partners-with-zoho-transforming-businesses-with-trusted-scalable-solutions/)
 
 ---
 
