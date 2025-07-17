@@ -59,7 +59,7 @@
 
 ## 🌍 Our Global Presence
 
-- 🇮🇳 **India** – Sitamarhi, Bihar & Noida, Uttar Pradesh  
+- <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f1ee-1f1f3.svg" width="20"/> **India** – Sitamarhi, Bihar & Noida, Uttar Pradesh  
 - 🇳🇱 **Netherlands** – Almere  
 - 🇩🇪 **Germany** – Oberschleißheim, Munich  
 - 🇺🇸 **USA** – Corcoran, Minnesota
