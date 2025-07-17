@@ -60,9 +60,9 @@
 ## 🌍 Our Global Presence
 
 - <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f1ee-1f1f3.svg" width="20"/> **India** – Sitamarhi, Bihar & Noida, Uttar Pradesh  
-- 🇳🇱 **Netherlands** – Almere  
-- 🇩🇪 **Germany** – Oberschleißheim, Munich  
-- 🇺🇸 **USA** – Corcoran, Minnesota
+- <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f1f3-1f1f1.svg" width="20"/> **Netherlands** – Almere  
+- <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f1e9-1f1ea.svg" width="20"/> **Germany** – Oberschleißheim, Munich  
+- <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f1fa-1f1f8.svg" width="20"/> **USA** – Corcoran, Minnesota
 
 ---
 
@@ -72,9 +72,16 @@
 
 📱 **Phone:**
 
-- 🇮🇳 [📞 +91 96080 79939](tel:+919608079939)  
-- 🇳🇱 [📞 +31 644738246](tel:+31644738246)  
-- 🇩🇪 [📞 +49 089 20928505](tel:+498920928505)
+<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f1ee-1f1f3.svg" width="20"/> **India** – Sitamarhi, Bihar & Noida, UP  
+📞 [+91 96080 79939](tel:+919608079939)
+
+<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f1f3-1f1f1.svg" width="20"/> **Netherlands** – Almere  
+📞 [+31 644738246](tel:+31644738246)
+
+<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f1e9-1f1ea.svg" width="20"/> **Germany** – Oberschleißheim, Munich  
+📞 [+49 089 20928505](tel:+498920928505)
+
+<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f1fa-1f1f8.svg" width="20"/> **USA** – Corcoran, Minnesota
 
 ---
 
