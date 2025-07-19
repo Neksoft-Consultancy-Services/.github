@@ -2,8 +2,7 @@
 
 [![Website](https://img.shields.io/badge/Website-Live-brightgreen?style=for-the-badge&logo=globe)](https://www.neksoftconsultancy.com)
 [![Founded](https://img.shields.io/badge/Founded-2022-blue?style=for-the-badge)](https://www.neksoftconsultancy.com)
-<img src="https://www.zohowebstatic.com/sites/zweb/images/commonroot/zoho-logo-darkbg.svg" width="60"/>
-[![Authorized Partner](https://img.shields.io/badge/Authorized-Partner-blue?style=for-the-badge)](https://www.neksoftconsultancy.com/neksoft-partners-with-zoho-transforming-businesses-with-trusted-scalable-solutions/)
+<img src="https://www.zohowebstatic.com/sites/zweb/images/commonroot/zoho-logo-darkbg.svg" width="60"/> ![Zoho Authorized Partner](https://img.shields.io/badge/Zoho%20Authorized%20Partner-grey?style=for-the-badge)
 
 ---
 
