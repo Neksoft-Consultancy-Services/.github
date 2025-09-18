@@ -51,8 +51,10 @@
 |------------|-------------|
 | [`NekCRM`](https://github.com/Neksoft-Consultancy-Services/nekcrm) | In-house CRM solution |
 | [`NekMaart`](https://github.com/Neksoft-Consultancy-Services/nekmaart) | Shop management system |
-| [`ClassMentor`](https://github.com/Neksoft-Consultancy-Services/classmentor) | School management system |
+| [`ClassMentor`](https://github.com/Neksoft-Consultancy-Services/classmentor-Latest) | School management system |
 | [`NekMed`](https://github.com/Neksoft-Consultancy-Services/nekmed) | Hospital management system |
+| [`NekPharma`](https://github.com/Neksoft-Consultancy-Services/Nekpharma) | Pharma management system |
+| [`BellaCab`](https://github.com/Neksoft-Consultancy-Services/bellacab) | BellaCab |
 | [`Zoho Marketplace Integration`](https://github.com/Neksoft-Consultancy-Services/zoho-marketplace-integration) | Zoho integration tools |
 
 ---
