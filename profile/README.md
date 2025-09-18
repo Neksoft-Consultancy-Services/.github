@@ -50,12 +50,13 @@
 | Repository | Description |
 |------------|-------------|
 | [`NekCRM`](https://github.com/Neksoft-Consultancy-Services/nekcrm) | In-house CRM solution |
-| [`NekMaart`](https://github.com/Neksoft-Consultancy-Services/nekmaart) | Shop management system |
-| [`ClassMentor`](https://github.com/Neksoft-Consultancy-Services/classmentor-Latest) | School management system |
-| [`NekMed`](https://github.com/Neksoft-Consultancy-Services/nekmed) | Hospital management system |
-| [`NekPharma`](https://github.com/Neksoft-Consultancy-Services/Nekpharma) | Pharma management system |
+| [`NekMaart`](https://github.com/Neksoft-Consultancy-Services/nekmaart) | Shop Management system |
+| [`ClassMentor Latest`](https://github.com/Neksoft-Consultancy-Services/classmentor-Latest) | School Management system - Latest|
+| [`ClassMentor`](https://github.com/Neksoft-Consultancy-Services/classmentor) | School Management system |
+| [`NekMed`](https://github.com/Neksoft-Consultancy-Services/nekmed) | Hospital Management system |
+| [`NekPharma`](https://github.com/Neksoft-Consultancy-Services/Nekpharma) | Pharma Management system |
 | [`BellaCab`](https://github.com/Neksoft-Consultancy-Services/bellacab) | BellaCab |
-| [`Zoho Marketplace Integration`](https://github.com/Neksoft-Consultancy-Services/zoho-marketplace-integration) | Zoho integration tools |
+| [`Zoho Marketplace Integration`](https://github.com/Neksoft-Consultancy-Services/zoho-marketplace-integration) | Zoho Integration Tools |
 
 ---
 
@@ -77,7 +78,7 @@
 | <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f1ee-1f1f3.svg" width="20"/> **India** | 📞 [+91 96080 79939](tel:+919608079939) |
 | <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f1f3-1f1f1.svg" width="20"/> **Netherlands** | 📞 [+31 644738246](tel:+31644738246) |
 | <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f1e9-1f1ea.svg" width="20"/> **Germany** | 📞 [+49 089 20928505](tel:+498920928505) |
-| <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f1fa-1f1f8.svg" width="20"/> **USA** |
+| <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f1fa-1f1f8.svg" width="20"/> **USA** | ------------N/A-------------- |
 
 ---
 
